@@ -93,7 +93,7 @@ And just like that, we got the goodies:
 
 ### 📚 Math / Explanation
 
-Want the math nerd version? Check here: [CBC\_BitFlip](link)
+Want the math nerd version? Check here: [CBC\_BitFlip](https://github.com/C1ph3r404/Flip/blob/main/BitFlip_Math.md)
 But TBH, the fun part is flipping the bits like a sneaky hacker 😎
 
 ---
