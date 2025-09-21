@@ -13,10 +13,11 @@ This repo contains a short writeup showing how to exploit an AES-CBC encryption 
 - `WriteUp.md` → Full steps, equations, and attack flow (this file).  
 - `screenshots/` → source snippets, CBC diagram, and flag proof.  
 - `cbc_bitflip.py` → a script to automate the flip and submission.
+- `BitFlip_Math.md` → math behind the bit flip attack.
 
 ---
 
 ## Disclaimer
-For educational / lab use only. Don’t run these techniques on systems you don’t own or don’t have permission to test. You know how this ends if you don’t.
+📖For educational / lab use only. Don’t run these techniques on systems you don’t own or don’t have permission to test. You know how this ends if you don’t.
 
 ---
